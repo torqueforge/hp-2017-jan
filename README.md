@@ -12,13 +12,13 @@ You will need:
 Clone this repository:
 
 ```bash
-$ git clone git@github.com:torqueforge/$NAME_OF_CLASS.git
+$ git clone git@github.com:torqueforge/hp-2017-jan.git
 ```
 
 Change directories so that you are in the project:
 
 ```bash
-$ cd $NAME_OF_CLASS
+$ cd hp-2017-jan
 ```
 
 Install the dependencies:
